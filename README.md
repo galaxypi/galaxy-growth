@@ -9,11 +9,11 @@
     <a href="http://galaxy.ooo"><strong>galaxy.ooo</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/galaxypi/galaxy/issues/new?template=feature_request.md">Request feature</a>
+    <a href="https://github.com/galaxypi/galaxy-growth/issues/new?template=feature_request.md">Request feature</a>
     &nbsp;&middot;&nbsp;
     <a href="https://github.com/galaxypi/">Explore</a>
     &nbsp;&middot;&nbsp;
-    <a href="https://github.com/galaxypi/galaxy.ooo/issues/new?template=issue-or-idea-report.md">
+    <a href="https://github.com/galaxypi/galaxy-growth/issues/new?template=issue-or-idea-report.md">
     Report issue or idea</a>
     &nbsp;&middot;&nbsp;
     <a href="https://discord.gg/36K9nan">Chat</a>
@@ -54,3 +54,14 @@
 <div align="right">
     <b><a href="#galaxy-growth">^ back to top</a></b>
 </div>
+
+
+## Issue or idea report
+
+Have an issue or idea? Please first read the [issue guidelines](/docs/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your issue or idea is not addressed yet, [please open an issue or idea report](https://github.com/galaxypi/galaxy-growth/issues/new?template=issue-or-idea-report.md).
+
+<div align="right">
+    <b><a href="#galaxy-growth">^ back to top</a></b>
+</div>
+
+
