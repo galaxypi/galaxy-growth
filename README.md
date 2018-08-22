@@ -83,3 +83,13 @@ art, or live demos whenever possible.
     <b><a href="#galaxy-growth">^ back to top</a></b>
 </div>
 
+
+## Contributing
+
+Please read through our [contributing guidelines](/docs/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+
+<div align="right">
+    <b><a href="#galaxy-growth">^ back to top</a></b>
+</div>
+
+
