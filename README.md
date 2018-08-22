@@ -125,10 +125,6 @@ For more details on how to get involved in the Galaxy Community visit the [Galax
 - <https://twitter.com/Lukas_E>
 - <https://github.com/lukasetter>
 
-<div align="right">
-    <b><a href="#galaxy-growth">^ back to top</a></b>
-</div>
-
 
 <div align="right">
   <a href="https://opensource.guide/how-to-contribute/#why-contribute-to-open-source">
