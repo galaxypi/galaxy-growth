@@ -26,16 +26,16 @@ restrictions:
 
 When reporting an issue or idea, include:
 
-- **Is your issue or idea related to a problem? Please describe.**
+- **Is your issue or idea related to a problem? Please describe.** <br/>
 A clear and concise description of what the problem is.
 
-- **Describe a solution**
+- **Describe a solution** <br/>
 A clear and concise description of what you want to happen.
 
-- **Describe alternatives you've considered**
+- **Describe alternatives you've considered** <br/>
 A clear and concise description of any alternative solutions you've considered.
 
-- **Additional context**
+- **Additional context** <br/>
 Add any other context or screenshots about the issue or idea.
 
 <div align="right">
