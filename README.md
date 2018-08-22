@@ -152,3 +152,8 @@ For more details on how to get involved in the Galaxy Community visit the [Galax
 </div>
 
 
+<div align="right">
+  <a href="https://opensource.guide/how-to-contribute/#why-contribute-to-open-source">
+    <img src="https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/" alt="Open Source">
+  </a>
+</div>
