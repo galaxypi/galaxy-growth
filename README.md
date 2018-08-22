@@ -93,3 +93,26 @@ Please read through our [contributing guidelines](/docs/CONTRIBUTING.md). Includ
 </div>
 
 
+## Roadmap
+
+View the detailed Galaxy Roadmap to see what's coming next.
+
+[› Galaxy Roadmap page](https://github.com/galaxypi/galaxy/blob/master/docs/roadmap.md) _( galaxypi/galaxy/docs/roadmap.md )_
+
+Galaxy's mission is to become the world's largest network of decentralized
+nodes offering services for decentralized platforms. We are looking to do this
+by executing the following;
+
+- [ ] Focus on building and scaling the Galaxy blockchain and currency
+- [ ] Build a large community of open source developers
+- [ ] Provide high developers with access to this network of nodes by building
+      and maintaining an SDK
+- [ ] Provide the best experience for developers to quickly deploy apps and
+      services to decentralized platforms
+
+View the detailed [Galaxy Roadmap page](https://github.com/galaxypi/galaxy/blob/master/docs/roadmap.md) _( galaxypi/galaxy/docs/roadmap.md )_ to learn more about project overview, goals, execution to date, milestones, current tech stack, and more...
+
+<div align="right">
+    <b><a href="#galaxy-growth">^ back to top</a></b>
+</div>
+
