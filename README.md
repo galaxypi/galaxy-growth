@@ -36,7 +36,13 @@
 
 ## Table of contents
 
-- [Upcoming events](#upcoming-events)
+- [Status](#status)
+- [Issue or idea report](#issue-or-idea-report)
+- [Feature requests](#feature-requests)
+- [Contributing](#contributing)
+- [Roadmap](#roadmap)
+- [Community](#community)
+- [Repository maintainers](#repository-maintainers)
 
 ## Upcoming events
 - Jul 19-20, 2018 – [Distributed 2018](https://2018.distributed.com/) – San Francisco, United States
