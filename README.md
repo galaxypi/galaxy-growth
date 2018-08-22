@@ -1,7 +1,4 @@
 <p align="center">
-  <a href="http://galaxy.ooo">
-    <img src="https://media.githubusercontent.com/media/galaxypi/galaxy-design/master/social/social-galaxy-logo-rounded.png" width=72 height=72>
-  </a>
 
   <h3 align="center">Galaxy Growth</h3>
 
@@ -44,5 +41,16 @@
 - [Community](#community)
 - [Repository maintainers](#repository-maintainers)
 
-## Upcoming events
-- Jul 19-20, 2018 – [Distributed 2018](https://2018.distributed.com/) – San Francisco, United States
+<div align="right">
+    <b><a href="#galaxy-growth">^ back to top</a></b>
+</div>
+
+
+## Status
+
+[![Galaxy Chat](https://img.shields.io/badge/Galaxy_Chat-Discord-purple.svg?colorA=212121&colorB=7289da)](https://discord.gg/36K9nan)
+[![Galaxy Events](https://img.shields.io/badge/Galaxy_Events-Upcoming_Events-brightgreen.svg?colorA=212121&colorB=00BB00)](https://github.com/galaxypi/galaxy/blob/master/docs/events.md)
+
+<div align="right">
+    <b><a href="#galaxy-growth">^ back to top</a></b>
+</div>
