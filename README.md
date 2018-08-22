@@ -116,3 +116,20 @@ View the detailed [Galaxy Roadmap page](https://github.com/galaxypi/galaxy/blob/
     <b><a href="#galaxy-growth">^ back to top</a></b>
 </div>
 
+
+## Community
+
+Get updates on Galaxy's development and chat with the project maintainers and community members.
+
+- Follow [@galaxypilab on Twitter](https://twitter.com/galaxypilab).
+- Join the official [Galaxy Discord](https://discord.gg/36K9nan) chat room.
+
+[› Galaxy Community page](https://github.com/galaxypi/galaxy/blob/master/docs/community.md) _( galaxypi/galaxy/docs/community.md )_
+
+For more details on how to get involved in the Galaxy Community visit the [Galaxy Community page](https://github.com/galaxypi/galaxy/blob/master/docs/community.md) _( galaxypi/galaxy/docs/community.md )_ and learn more about events, roadmap, weekly & daily scrum, past weekly community scrum calls, and more...
+
+<div align="right">
+    <b><a href="#galaxy-growth">^ back to top</a></b>
+</div>
+
+
