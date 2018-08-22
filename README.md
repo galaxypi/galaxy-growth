@@ -55,7 +55,7 @@
 
 ## Issue or idea report
 
-Have an issue or idea? Please first read the [issue guidelines](/docs/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your issue or idea is not addressed yet, [please open an issue or idea report](https://github.com/galaxypi/galaxy-growth/issues/new?template=issue-or-idea-report.md).
+Have an issue or idea? Please first read the [issue guidelines](/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your issue or idea is not addressed yet, [please open an issue or idea report](https://github.com/galaxypi/galaxy-growth/issues/new?template=issue-or-idea-report.md).
 
 <div align="right">
     <b><a href="#galaxy-growth">^ back to top</a></b>
@@ -64,7 +64,7 @@ Have an issue or idea? Please first read the [issue guidelines](/docs/CONTRIBUTI
 
 ## Contributing
 
-Please read through our [contributing guidelines](/docs/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+Please read through our [contributing guidelines](/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
 
 <div align="right">
     <b><a href="#galaxy-growth">^ back to top</a></b>
