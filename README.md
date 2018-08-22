@@ -133,3 +133,22 @@ For more details on how to get involved in the Galaxy Community visit the [Galax
 </div>
 
 
+## Repository maintainers
+
+**Guy Lepage**, _Product, Design & Development_
+- <https://twitter.com/guylepage3>
+- <https://github.com/guylepage3>
+
+**Clint Nelsen**, _Operations & Marketing_
+- <https://twitter.com/clintnelsen>
+- <https://github.com/clintnelsen>
+
+**Lukas Etter**, _Operations & Business Development_
+- <https://twitter.com/Lukas_E>
+- <https://github.com/lukasetter>
+
+<div align="right">
+    <b><a href="#galaxy-growth">^ back to top</a></b>
+</div>
+
+
