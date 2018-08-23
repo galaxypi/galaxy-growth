@@ -12,7 +12,7 @@ Following these guidelines helps to communicate that you respect the time of the
 
 ## Using the issue tracker
 
-The [issue tracker](https://github.com/galaxypi/galaxy-grwoth/issues) is the preferred channel for [issue or idea reports](#issue-or-idea-report) and [feature requests](#feature-requests), but please respect the following
+The [issue tracker](https://github.com/galaxypi/galaxy-growth/issues) is the preferred channel for [issue or idea reports](#issue-or-idea-report) and [feature requests](#feature-requests), but please respect the following
 restrictions:
 
 * Please **do not** use the issue tracker for personal support requests.  Please use [Galaxy Discord](https://discord.gg/36K9nan) chat app as it is a better places to get help.
