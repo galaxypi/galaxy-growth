@@ -115,10 +115,6 @@ For more details on how to get involved in the Galaxy Community visit the [Galax
 
 ## Repository maintainers
 
-**Guy Lepage**, _Product, Design & Development_
-- <https://twitter.com/guylepage3>
-- <https://github.com/guylepage3>
-
 **Clint Nelsen**, _Operations & Marketing_
 - <https://twitter.com/clintnelsen>
 - <https://github.com/clintnelsen>
